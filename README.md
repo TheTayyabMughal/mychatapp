@@ -1,1 +1,5 @@
-# mychatapp
+/*install all dependencies with latest version
+
+then start peoject with npm 
+
+also install expo go app with latest version to run this project*/
